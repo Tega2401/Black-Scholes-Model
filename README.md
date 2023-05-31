@@ -1,4 +1,4 @@
-# Black-Shoals-Model
+# Black-Scholes Model
 
 This project provides an implementation of the Black-Scholes model using Google App Script. The Black-Scholes model, also known as the Black-Scholes-Merton model, is a mathematical model used to estimate the fair price or theoretical value for a European-style option. 
 
